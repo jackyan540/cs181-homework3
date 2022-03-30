@@ -30,4 +30,4 @@
 
 #### problem3_7-Neural-Network.py
 
-- 
+- Implementation of a Neural Network with 4 fully connected linear layers (with either 4000 or 5000 nodes in each hidden layer) using ReLU activation functions
