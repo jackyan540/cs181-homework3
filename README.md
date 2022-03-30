@@ -17,9 +17,11 @@
 
 #### problem1_4-Estimator-Plots.py
 
-- Using gradient descent, fits a sigmoid logistic regression model for three different bases
+- Plots and compares the distributions for MLE, MAP, and a full posterior predictive as each of 14 data points are gathered
 
 #### problem3-PyTorch-Neural-Networks
+
+- 
 
 #### problem 3_4-Neural-Network.py
 
