@@ -21,7 +21,7 @@
 
 #### problem3-PyTorch-Neural-Networks
 
-- 
+- Referred to as `T3_P3.py` in the specifications
 
 #### problem 3_4-Neural-Network.py
 
