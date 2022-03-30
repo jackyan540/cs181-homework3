@@ -21,7 +21,7 @@
 
 #### problem3-PyTorch-Neural-Networks.ipynb
 
-- Referred to as `T3_P3.py` in the specifications
+- Referred to as `T3_P3.ipynb` in the specifications
 - Jupyter Notebook file containing specifications on implementing a Neural Network using PyTorch to classify images
 
 #### problem 3_4-Neural-Network.py
